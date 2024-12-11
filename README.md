@@ -1,6 +1,4 @@
-Sure! Below is the **README.md** content, formatted for easy copy-pasting directly into a GitHub README file.
 
-```markdown
 # To-Do List Application
 
 A simple and interactive **To-Do List** web application to help you organize your tasks. This application allows users to add tasks, mark them as complete, and delete them as needed.
