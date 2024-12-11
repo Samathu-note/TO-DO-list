@@ -26,9 +26,7 @@ A simple and interactive **To-Do List** web application to help you organize you
 5. To delete a task:
    - Click the **Delete** button next to the task.
    
-## Example Screenshot
 
-![To-Do List](screenshot.png)
 
 ## Installation
 
